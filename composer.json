@@ -1,0 +1,12 @@
+{
+    "name": "chybaka/test",
+    "description": "test package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Egor Fedorenkov",
+            "email": "chybaka82@gmail.com"
+        }
+    ],
+    "require": {}
+}
