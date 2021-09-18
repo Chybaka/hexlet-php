@@ -8,12 +8,13 @@
             "email": "chybaka82@gmail.com"
         }
     ],
-    "autoload": {
+    "autoload": {        
         "files": [
-            "src/Runner.php"            
+            "src/Runner.php"
         ]
     },
     "require": {
-        "tightenco/collect": "^8.34"
+        "tightenco/collect": "^8.34",
+        "funct/funct": "^1.5"
     }
 }
